@@ -1,0 +1,23 @@
+{
+  "name": "directro",
+  "version": "1.0.1",
+  "description": "Lightweight directory explorer UI component for rendering hierarchical storage structures with file actions and icons.",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "directory",
+    "file-explorer",
+    "ui",
+    "mendix",
+    "filesystem",
+    "tree-view"
+  ],
+  "author": "Bipul Sardar",
+  "license": "MIT"
+}
